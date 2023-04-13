@@ -1,0 +1,3 @@
+/mnt/c/dev/CLionProjects/socket_serv/cmake-build-debug/CMakeFiles/socket_serv.dir
+/mnt/c/dev/CLionProjects/socket_serv/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/dev/CLionProjects/socket_serv/cmake-build-debug/CMakeFiles/rebuild_cache.dir

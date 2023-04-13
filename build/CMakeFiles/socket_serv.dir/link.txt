@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/socket_serv.dir/main.c.o -o socket_serv 

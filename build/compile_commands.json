@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hugo/dev/C/socket_serv/build",
+  "command": "/usr/bin/gcc   -g -std=gnu2x -o CMakeFiles/socket_serv.dir/main.c.o -c /home/hugo/dev/C/socket_serv/main.c",
+  "file": "/home/hugo/dev/C/socket_serv/main.c"
+}
+]

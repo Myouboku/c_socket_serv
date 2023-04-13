@@ -1,0 +1,3 @@
+/home/hugo/dev/C/socket_serv/build/CMakeFiles/socket_serv.dir
+/home/hugo/dev/C/socket_serv/build/CMakeFiles/edit_cache.dir
+/home/hugo/dev/C/socket_serv/build/CMakeFiles/rebuild_cache.dir
